@@ -3,7 +3,7 @@
 - absenteeism_at_work.csv
     - 12장 클래스와 객체 - CSV 파일 클래스
 - enrollments.csv
-    - 1장 파일 처리 - CSV 형식의 파일 데이터 구조화
+    - 11장 파일 처리 - CSV 형식의 파일 데이터 구조화
 - football_data.txt
     - 11장 파일 처리 - 축구 통계
 - iris.txt
