@@ -6,8 +6,10 @@
     - 11장 파일 처리 - 야구 통계
 - enrollments.csv
     - 11장 파일 처리 - CSV 형식의 파일 데이터 구조화
-- football_data.txt
-    - 11장 파일 처리 - 축구 통계
+- football_all_star_data.txt
+    - 11장 파일 처리 - 올스타 팀 축구 선수 통계
+- football_england.txt
+    - 11장 파일 처리 - 잉글랜드 프리미어리그 축구 선수 통계
 - iris.txt
     - 11장 파일 처리 - 붓꽃 데이터 분석
 - population.txt
