@@ -5,7 +5,7 @@
 - baseball_data.txt
     - 11장 파일 처리 - 야구 통계
 - enrollments.csv
-    - 1장 파일 처리 - CSV 형식의 파일 데이터 구조화
+    - 11장 파일 처리 - CSV 형식의 파일 데이터 구조화
 - football_data.txt
     - 11장 파일 처리 - 축구 통계
 - iris.txt
